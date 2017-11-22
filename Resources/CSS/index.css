@@ -2,4 +2,31 @@ html {
   background-color: black;
   text-align: center;
   font-family: Verdana;
+  color: White;
+}
+
+.download {
+  color: Aquamarine;
+  font-size: 14px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+html.p {
+  font-size: 21px;
+}
+
+html.p .footer{
+  color: Gray
+}
+
+.footer {
+  text-align: right;
 }
